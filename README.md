@@ -60,7 +60,6 @@ Using Power BI, several visualizations were created to support data insights, in
 
 ## File Structure
 [`CyclisticTrips.sql`](CyclisticTrips.sql): SQL script for database, table creation, clean,transform data, data analysis and trend identification
-[CylisticTrip_Viz](CyclisticTrip_Viz.pbix): Power BI report with visualizations and dashboards
 [CylisticTrip_Viz](CyclisticTrip_Viz.pdf): Power BI report with visualizations and dashboards
 [README.md](README.md): Project documentation
 
